@@ -22,7 +22,7 @@ img{
     width: 100%;
 }
 
-.img{
+.container{
     text-align: center;
     position: relative;
 }
@@ -81,4 +81,13 @@ img{
 .green-value{
     background-color: rgba(4, 104, 54, 0.87);
     padding: 5px;
+}
+
+.favorites{
+    position: absolute;
+    top: 5%;
+    right: 0;
+    background-color: white;
+    font-size: 20px;
+    padding: 2% 3%;
 }
